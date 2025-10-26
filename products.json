@@ -1,1 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Stylish T-Shirt",
+    "price": 499,
+    "description": "100% Cotton, comfortable fit.",
+    "image": "https://via.placeholder.com/300x200?text=T-Shirt"
+  },
+  {
+    "id": 2,
+    "name": "Denim Jeans",
+    "price": 1499,
+    "description": "Slim fit blue denim jeans.",
+    "image": "https://via.placeholder.com/300x200?text=Jeans"
+  },
+  {
+    "id": 3,
+    "name": "Casual Shoes",
+    "price": 999,
+    "description": "Lightweight and perfect for daily wear.",
+    "image": "https://via.placeholder.com/300x200?text=Shoes"
+  }
+]
 
